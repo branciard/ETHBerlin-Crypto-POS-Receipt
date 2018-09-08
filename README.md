@@ -21,7 +21,9 @@ A customer pays an event entrance fee in crypto: he gets his receipt as a confir
 
 ### Smart Contract
 
-Smart contract can design forms of interactions between users: Marketplace (bid/ask), Auctions. These specific new kinds of transactions will need paper receipts to be tracked into existing accounting system for company or personal budget management.
+Smart contract can design forms of interactions between users: Marketplace (bid/ask), Auctions, Ticketing. These specific new kinds of transactions will need paper receipts to 
+- details date, amount etc ...
+- be tracked into existing accounting system for company or personal budget management.
 
 For this point, we will take example of iExec Marketplace (computation ressources Marketplace) where a receipt of all the whole process can be printed, showing what the user has paid and what’s the workers’ reward for this off-chain computation. 
 
