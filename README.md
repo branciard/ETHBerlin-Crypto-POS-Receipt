@@ -1,6 +1,6 @@
 # ETHBerlin-Crypto-POS-Receipt
 
-Hackers : Julien Béranger and Francois Franciard
+Hackers : Julien Béranger and Francois Branciard
 
 
 Hacking an Epson P20 POS mobile printer Receipt for crypto
