@@ -30,7 +30,7 @@ No change for the customer. Interacting with crypto or fiat, he has the same kin
 
 ## Market segment to start
 
-You will buy your coffee with crypto in Starbucks soon,
-Today Starbucks gives you a paper receipt for your fiat payment,
-Paper receipt for the crypto payment with the transaction you can then QR code to check.
+- You will buy your coffee with crypto in Starbucks soon,
+- Today Starbucks gives you a paper receipt for your fiat payment,
+- Paper receipt for the crypto payment with the transaction you can then QR code to check.
 
