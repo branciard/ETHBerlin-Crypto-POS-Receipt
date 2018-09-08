@@ -15,9 +15,6 @@ If you attach ERC721 to real object in life that have value : Art, gold bar, sup
 When you transfer the new ownership in real life by physically interactive with your client. The owner triggers the ERC721 transfer. This new previous owner gives the object and a receipt that shows the ERC721 transfer transaction.  
 The new owner can check if the transaction is confirmed and if so, it can safely go away. 
 
-### Ticketing
-
-A customer pays an event entrance fee in crypto: he gets his receipt as a confirmation of payment and traditional ticket details for an event. 
 
 ### Smart Contract
 
