@@ -18,22 +18,22 @@ Exemple :
 
 ### Smart Contract User story
 
-Smart contract can design forms of interactions between users: Marketplace (bid/ask), Auctions, Ticketing. These specific new kinds of transactions will need paper receipts to 
+Smart contract can design forms of interactions between users: Marketplace (bid/ask), Auctions, Ticketing. These specific new kinds of transactions will need paper receipts to
 - details date, amount etc ...
 - be tracked into existing accounting system for company or personal budget management.
 
-For this point, we will take example of iExec Marketplace (computation ressources Marketplace) where a receipt of all the whole process can be printed, showing what the user has paid and what’s the workers’ reward for this off-chain computation. 
+For this point, we will take example of iExec Marketplace (computation ressources Marketplace) where a receipt of all the whole process can be printed, showing what the user has paid and what’s the workers’ reward for this off-chain computation.
 
 
 ### Property Receipt User story
 
-If you attach ERC721 to real object in life that have value : Art, gold bar, supply chain etc ... 
+If you attach ERC721 to real object in life that have value : Art, gold bar, supply chain etc ...
 When you transfer the new ownership in real life by physically interactive with your client. The owner trigger the ERC721 transfer. This new previous owner gives the object and a receipt that shows the ERC721 transfer transaction.  
-The new owner can check if the transaction is confirmed and if so, it can safely go away. 
+The new owner can check if the transaction is confirmed and if so, it can safely go away.
 
 ## PoC
 
 We facing some issues with the printer drivers on mac. So we did not succeeded to do some code for the solution but we mock up the story and illustrate the Propery Receipt in this short video :
 
-
-
+## how to build
+npm install openzeppelin-solidity

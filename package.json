@@ -1,0 +1,26 @@
+{
+  "name": "ethberlin-crypto-pos-receipt",
+  "version": "1.0.0",
+  "description": "Origami 721 ",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/branciard/ETHBerlin-Crypto-POS-Receipt.git"
+  },
+  "author": "francois branciard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/branciard/ETHBerlin-Crypto-POS-Receipt/issues"
+  },
+  "homepage": "https://github.com/branciard/ETHBerlin-Crypto-POS-Receipt#readme",
+  "dependencies": {
+    "openzeppelin-solidity": "^2.0.0-rc.1",
+    "truffle-hdwallet-provider": "0.0.3"
+  }
+}
