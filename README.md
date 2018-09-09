@@ -32,7 +32,7 @@ When you transfer the new ownership in real life by physically interactive with 
 The new owner can check if the transaction is confirmed and if so, it can safely go away.
 
 ## PoC
-
+PoC on the Property Receipt User story. 
 We facing some issues with the printer drivers on mac. So we did not succeeded to do some code for the solution but we mock up the story and illustrate the Propery Receipt in this short video :
 
 ## When Mainnet ?
