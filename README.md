@@ -64,7 +64,7 @@ The current ower of this origami :
 
 Mint has been closed. So this is a unique 1 item Collection !!! What is your offer for this beautiful origami ?
 
-Token url is  associated to an [ipfs link](https://github.com/branciard/ETHBerlin-Crypto-POS-Receipt/blob/master/migrations/2_deploy_contracts.js#L15). It is a of the origami picture with the token id visible :
+Token url is  associated to an [ipfs link](https://github.com/branciard/ETHBerlin-Crypto-POS-Receipt/blob/master/migrations/2_deploy_contracts.js#L13). It is a of the origami picture with the token id visible :
 
 ![part2](https://github.com/branciard/ETHBerlin-Crypto-POS-Receipt/blob/master/mainnet/QmQV992LRzKibKnoBKtzydwV1ZDr3EiuGUnXWaZvzeq3jt.jpg)
 
