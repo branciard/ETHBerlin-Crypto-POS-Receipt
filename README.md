@@ -35,5 +35,18 @@ The new owner can check if the transaction is confirmed and if so, it can safely
 
 We facing some issues with the printer drivers on mac. So we did not succeeded to do some code for the solution but we mock up the story and illustrate the Propery Receipt in this short video :
 
+## When Mainnet ?
+It is on [mainnet](https://etherscan.io/address/0x8adfe7afc049d2a10b2b715b1d1d138e3f1865be)  !! The token id 1 you see in the video is one record on this ERC721.
+'''
+        Origami721: 0x8adfe7afc049d2a10b2b715b1d1d138e3f1865be
+        ... 0x1758b2dbb3e14f9aead54d4fef6383f341285f592f94d40d99929c7abbb93d50
+'''
+Mint has been closed. So this is a unique 1 item Collection !!! What is your offer for this beautiful origami ?
+
+Token url is  associated to an [ipfs link](https://github.com/branciard/ETHBerlin-Crypto-POS-Receipt/blob/master/migrations/2_deploy_contracts.js#L15). It is a of the origami picture with the token id visible.
+
+
 ## how to build
-npm install openzeppelin-solidity
+npm i
+truffle compile
+truffle migrate
