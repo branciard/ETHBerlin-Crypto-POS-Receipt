@@ -58,6 +58,8 @@ Token url is  associated to an [ipfs link](https://github.com/branciard/ETHBerli
 
 
 ## how to build
+```
 npm i
 truffle compile
 truffle migrate
+```
