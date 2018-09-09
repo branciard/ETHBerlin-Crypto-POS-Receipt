@@ -32,7 +32,19 @@ When you transfer the new ownership in real life by physically interactive with 
 The new owner can check if the transaction is confirmed and if so, it can safely go away.
 
 ## PoC
-PoC on the Property Receipt User story. 
+We do PoC on the Property Receipt User story :
+
+- The creator of the origami has create a ERC721 et mint a token for the origami cretaed.
+- he put the token id on the paper object.
+- The buyer pay for the object (fiat or crypto)
+- The creator gives the object and the receipt of the new ownership to the buyer.
+- The buyer do not go away until he has this receipt to be able to proove he his the owner and sell it to others.
+
+More features to come :
+- before buying the object, ask the seller (owner) to proove his current ownership of the ERC721 token. (signed some message)
+- before selling to the new owner. ask the byer to confirmed his idendity to receive the ownertship. (signed some message)
+
+
 We facing some issues with the printer drivers on mac. So we did not succeeded to do some code for the solution but we mock up the story and illustrate the Propery Receipt in this short video :
 
 ## When Mainnet ?
