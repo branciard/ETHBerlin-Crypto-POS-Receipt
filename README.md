@@ -47,6 +47,8 @@ More features to come :
 
 We facing some issues with the printer drivers on mac. So we did not succeeded to do some code for the solution but we mock up the story and illustrate the Propery Receipt in this short video :
 
+https://youtu.be/eRXa1FLQjJE
+
 ## When Mainnet ?
 It is on [mainnet](https://etherscan.io/address/0x8adfe7afc049d2a10b2b715b1d1d138e3f1865be)  !! The token id 1 you see in the video is one record on this ERC721.
 
